@@ -10,7 +10,7 @@ A [Python script](https://github.com/catherinesloan/python-api-challenge/blob/ma
 1. A random selection of 500+ unique cities based on latitude and longitude
 2. A weather check on each of the cities using a series of successive API calls
 3. A print log of each city as it's being processed with the city number and city name
-4. [CSV](https://github.com/catherinesloan/python-api-challenge/blob/main/WeatherPy/output_data/cities.csv) export of all retrieved data 
+4. A [CSV export](https://github.com/catherinesloan/python-api-challenge/blob/main/WeatherPy/output_data/cities.csv) of all retrieved data 
 5. A series of scatter plots that showcases the following relationships:
    - Temperature (F) vs. Latitude
    - Humidity (%) vs. Latitude
@@ -21,7 +21,7 @@ A [Python script](https://github.com/catherinesloan/python-api-challenge/blob/ma
    - Humidity (%) vs. Latitude
    - Cloudiness (%) vs. Latitude
    - Wind Speed (mph) vs. Latitude
- 7. [PNG image](https://github.com/catherinesloan/python-api-challenge/tree/main/WeatherPy/images) export for each plot
+ 7. [PNG image export](https://github.com/catherinesloan/python-api-challenge/tree/main/WeatherPy/images) for each plot
 
 <img width="341" alt="Screen Shot 2021-05-29 at 3 53 08 pm" src="https://user-images.githubusercontent.com/73929301/120059719-7118a500-c096-11eb-8331-18a0eb0959fa.png">
 
