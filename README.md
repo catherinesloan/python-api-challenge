@@ -25,9 +25,8 @@ A [Python script](https://github.com/catherinesloan/python-api-challenge/blob/ma
 
 <img width="341" alt="Screen Shot 2021-05-29 at 3 53 08 pm" src="https://user-images.githubusercontent.com/73929301/120059719-7118a500-c096-11eb-8331-18a0eb0959fa.png">
 
-<img width="378" alt="Screen Shot 2021-05-29 at 3 53 30 pm" src="https://user-images.githubusercontent.com/73929301/120059697-57775d80-c096-11eb-9c2b-4274fc30cf4e.png">
+<img width="378" alt="Screen Shot 2021-05-29 at 3 53 30 pm" src="https://user-images.githubusercontent.com/73929301/120059697-57775d80-c096-11eb-9c2b-4274fc30cf4e.png">. <img width="381" alt="Screen Shot 2021-05-29 at 3 53 53 pm" src="https://user-images.githubusercontent.com/73929301/120059701-5d6d3e80-c096-11eb-9de0-fc241a492669.png">
 
-<img width="381" alt="Screen Shot 2021-05-29 at 3 53 53 pm" src="https://user-images.githubusercontent.com/73929301/120059701-5d6d3e80-c096-11eb-9de0-fc241a492669.png">
 
  
 
